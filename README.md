@@ -1,2 +1,3 @@
 # javascript-promises
-Consuming, Creating Promises. Asyn/Await
+Consuming, Creating Promises. Async/Await
+
